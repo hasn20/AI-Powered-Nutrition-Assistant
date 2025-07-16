@@ -125,8 +125,7 @@ Create a `.env` file in the project root with the following:
 ```plaintext
 GROQ_API_KEY=your-groq-api-key
 ```
-- Obtain your Groq API key from [xAI's API service](https://x.ai/api).
-- Ensure the `.env` file is added to `.gitignore` to avoid exposing your API key.
+
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
